@@ -1,5 +1,5 @@
 # Forward Widget Hub
-
+  
 自托管的 [Forward App](https://apps.apple.com/app/id6503940939) 模块托管平台。上传 `.js` 小组件或 `.fwd` 订阅文件，自动生成可在 Forward App 中导入的订阅链接。
 
 **在线示例：** https://forward-widget-hub.danmu.workers.dev
